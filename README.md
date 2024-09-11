@@ -1,13 +1,13 @@
 Hey there 👋, I'm Ganesh Kumbhar!
- 
- 
-Glad to see you here!
-I am a Front-End Developer and a final-year college student, eager to kickstart my career in web development. 🚀
 
-I have a strong passion for crafting engaging user interfaces and solving complex problems with JavaScript, jQquery, React, HTML, and CSS and BootStrap. I'm continuously learning and exploring the latest web technologies to stay current and improve my skill set.
+Glad to have you here!
 
-I'm a curious explorer, an avid learner, and a problem-solver at heart. When I'm not coding, you'll find me watching tech tutorials on YouTube and expanding my knowledge.
+I'm a Fullstack Web Developer and a recent engineering graduate, ready to launch my career in web development. 🚀
 
-Feel free to connect with me @ganeshhh2003@ for all things tech or just to say hello! Let's shape the future of web development together. 🌟
+I have a deep passion for creating captivating user interfaces, building robust backends, and managing databases. I'm skilled in JavaScript (ES6+), jQuery, React, Redux, Express, Node.js, MySQL, MongoDB, HTML, CSS, Tailwind CSS, and Bootstrap. I'm always eager to learn and stay up-to-date with the latest web technologies to continuously improve my craft.
 
-Since then I’ve contributed to several projects, constantly pushing commits, opening issues, and submitting pull requests to make a positive impact through technology.
+As a curious explorer and avid learner, I love solving challenging problems and pushing my coding skills to the next level. When I’m not coding, you’ll likely find me watching tech tutorials on YouTube or diving into something new.
+
+Feel free to connect with me at ganeshhh2003@gmail.com for anything tech-related, or just to say hello! Let’s collaborate and shape the future of web development together. 🌟
+
+Since starting my journey, I’ve contributed to various projects—pushing commits, opening issues, and submitting pull requests—all to make a positive impact through technology.
